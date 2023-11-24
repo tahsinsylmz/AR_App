@@ -11,7 +11,8 @@ Bu proje, ARCore teknolojisiyle Unity platformunda geliştirilen bir mobil AR uy
 Amaçlar ve Hedefler
 Gerçek zamanlı olarak telefon kamerası tarafından taranan özel bir görüntüyü algılamak.
 Algılanan görüntüyle ilişkilendirilmiş sanal içeriği, kullanıcının etrafında görüntülemek ve kontrol etmesine imkan sağlamak.
-Kullanılan Teknolojiler
+
+<h1>Kullanılan Teknolojiler
 AR Teknolojisi: Dijital ve fiziksel dünyaların birleşimi, gerçek zamanlı etkileşimler ve doğru 3B tanımlama sağlar.
 ARCore: Google tarafından geliştirilen, artırılmış gerçeklik uygulamalarının oluşturulmasına olanak sağlayan bir yazılım geliştirme kiti.
 Unity Hub 2021.3.6: Oyun geliştirmek için gereken tüm bileşenleri içeren popüler bir oyun motoru.
